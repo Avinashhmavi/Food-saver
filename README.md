@@ -2,4 +2,4 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/821b919a-ee59-49cf-9351-ebc76146dcd1
+**URL**: https://surplus-saver.lovable.app/
